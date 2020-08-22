@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\tangxxbo\CSharp_functions\CSharp_functions\bin\Debug\CSharp_functions.exe.config
+C:\Users\user\source\repos\tangxxbo\CSharp_functions\CSharp_functions\bin\Debug\CSharp_functions.exe
+C:\Users\user\source\repos\tangxxbo\CSharp_functions\CSharp_functions\bin\Debug\CSharp_functions.pdb
+C:\Users\user\source\repos\tangxxbo\CSharp_functions\CSharp_functions\obj\Debug\CSharp_functions.csprojAssemblyReference.cache
+C:\Users\user\source\repos\tangxxbo\CSharp_functions\CSharp_functions\obj\Debug\CSharp_functions.Form1.resources
+C:\Users\user\source\repos\tangxxbo\CSharp_functions\CSharp_functions\obj\Debug\CSharp_functions.Properties.Resources.resources
+C:\Users\user\source\repos\tangxxbo\CSharp_functions\CSharp_functions\obj\Debug\CSharp_functions.csproj.GenerateResource.cache
+C:\Users\user\source\repos\tangxxbo\CSharp_functions\CSharp_functions\obj\Debug\CSharp_functions.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\tangxxbo\CSharp_functions\CSharp_functions\obj\Debug\CSharp_functions.exe
+C:\Users\user\source\repos\tangxxbo\CSharp_functions\CSharp_functions\obj\Debug\CSharp_functions.pdb
